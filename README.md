@@ -1,4 +1,4 @@
-### HENLO, I'm Federico Sesana!! (Python good Java bad)
+### HENLO, I'm Federico Sesana!!
 
 <!--
 **skPythonGreaterThanJava/skPythonGreaterThanJava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
